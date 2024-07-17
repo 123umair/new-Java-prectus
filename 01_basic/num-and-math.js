@@ -1,4 +1,4 @@
-const score = 500
+const score = 500 
 // console.log(score)
 const marks = new Number (500)
 // console.log(marks)
