@@ -51,4 +51,4 @@ const max = 20
 
 console.log(Math.floor(Math.random() * (max - min + 1)) + min)//from 10 upto 20
 
-console.log(Math.floor(Math.random()*6)+1) //from 1 upto 6
+console.log(Math.floor(Math.random()*6)+1) //from 1 upto 6 
